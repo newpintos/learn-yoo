@@ -1,0 +1,5 @@
+{
+  "name": "Know XYZ",
+  "description": "A simple Learning Management System (LMS) with Admin and Learner roles. Admins can create courses, upload lessons, and manage learner access. Learners can view courses they have access to and track their progress.",
+  "requestFramePermissions": []
+}
